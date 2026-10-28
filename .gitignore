@@ -1,0 +1,33 @@
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Secrets and environment files
+.env
+.env.*
+!.env.example
+
+# Local datasets and generated reports
+data/raw/
+data/processed/
+reports/
+
+# Trained models
+models/*.joblib
+models/*.pkl
+
+# Jupyter and editor files
+.ipynb_checkpoints/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Keep local customer datasets out of GitHub
+data/
+
+# Local backup copies
+app_backup*.py
+
