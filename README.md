@@ -337,11 +337,7 @@ simulator.
 
 ## Author
 
-Add your name, GitHub profile, and project repository link here before
-publishing.
+Harshal Shirsat,[ GitHub profile](https://github.com/Harshalspage), [and project repository link.](https://github.com/Harshalspage/customer-churn-prediction-platform)
 
 ------------------------------------------------------------------------
 
-**Disclaimer:** This project is for portfolio and educational purposes.
-It is not a production churn-management system without further
-validation, monitoring, security, privacy review, and business testing.
